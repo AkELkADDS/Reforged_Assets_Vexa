@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="10"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="GameProject" type="LSString" value=""/>
+            <attribute id="Module" type="LSString" value="c4f983ea-5a79-e568-ebbf-6535dc6a0d7e"/>
+            <attribute id="Name" type="LSString" value="Reforged_Assets_Vexa"/>
+            <attribute id="UUID" type="LSString" value="3439e10b-3670-a335-a99f-30b92276b02f"/>
+            <attribute id="UpdatedDependencies" type="bool" value="true"/>
+            <children>
+                <node id="Categories"/>
+            </children>
+        </node>
+    </region>
+</save>
